@@ -52,7 +52,6 @@
 }
 
 .search-bar::placeholder {
-  font-family: Roboto, Arial;
   font-size: 16px;
 }
 
@@ -97,7 +96,6 @@
   transition: opacity 0.15s;
   pointer-events: none;
   white-space: nowrap;
-  font-family: Roboto, Arial;
 }
 
 .search-button:hover .tooltip,
@@ -173,7 +171,6 @@
   padding-right: 5px;
   padding-top: 2px;
   padding-bottom: 2px;
-  font-family: Roboto, Arial;
   font-size: 11px;
   border-radius: 10px;
 }
