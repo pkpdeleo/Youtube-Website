@@ -1,4 +1,4 @@
-# YouTube Clone
+# YouTube Clone 📹
 
 This repository contains the frontend assets for a YouTube clone project. It includes HTML and CSS files to create a visually appealing user interface, as well as folders for thumbnails, profile pictures, and dashboard icons.
 
@@ -40,7 +40,7 @@ To customize the project:
 
 If you would like to contribute to the project, please fork the repository and submit a pull request with your changes. Make sure to follow the project's coding style and guidelines.
 
-# License
+# License 📃
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
 
