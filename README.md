@@ -1,6 +1,6 @@
 # YouTube Clone 📹
 
-This repository contains the frontend assets for a YouTube clone project. It includes HTML and CSS files to create a visually appealing user interface, as well as folders for thumbnails, profile pictures, and dashboard icons.
+This repository contains the frontend assets for a YouTube clone project. It includes **HTML and CSS** files to create a visually appealing user interface, as well as folders for thumbnails, profile pictures, and dashboard icons.
 
 # Repository Structure
 
